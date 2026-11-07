@@ -1,2 +1,2 @@
-# code-review-agent
+# review-skill
 ......
